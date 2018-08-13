@@ -1,0 +1,55 @@
+{
+  "_from": "code-coverage-client",
+  "_id": "code-coverage-client@0.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Zc4lF2clY8AgmYip95Ovh/I5uFZWDxDcUMFPMKgcOFOEZpoQ6xAoz/5uVaqYafCTEIOgRtYs+xep1FtARKzsQQ==",
+  "_location": "/code-coverage-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "code-coverage-client",
+    "name": "code-coverage-client",
+    "escapedName": "code-coverage-client",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/code-coverage-client/-/code-coverage-client-0.0.6.tgz",
+  "_shasum": "251f2d54866cb3bf7ad70f7597990a3f754ab53c",
+  "_spec": "code-coverage-client",
+  "_where": "C:\\work",
+  "author": {
+    "name": "SENTHILKUMAR R",
+    "url": "sk003cs@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chrome-remote-interface": "^0.26.0",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "request": "^2.87.0"
+  },
+  "deprecated": false,
+  "description": "Client - CSS and JS Code Coverage",
+  "devDependencies": {},
+  "keywords": [
+    "JS Coverage",
+    "CSS Coverage",
+    "Code Coverage",
+    "CSS and JS Code Coverage",
+    "CSS and JS Coverage"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "code-coverage-client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.6"
+}
